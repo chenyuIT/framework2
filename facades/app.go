@@ -1,7 +1,7 @@
 package facades
 
 import (
-	foundationcontract "github.com/chenyuIT/framework/contracts/foundation"
+	foundationcontract "github.com/chenyuIT/framework2/contracts/foundation"
 	"github.com/chenyuIT/framework2/foundation"
 )
 
