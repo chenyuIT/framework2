@@ -12,7 +12,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 
-	frameworkgrpc "github.com/goravel/framework/grpc"
+	frameworkgrpc "github.com/chenyuIT/framework/grpc"
 )
 
 type MDReaderWriter struct {

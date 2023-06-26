@@ -8,10 +8,10 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/gookit/color"
 
-	"github.com/goravel/framework/contracts/config"
-	httpcontract "github.com/goravel/framework/contracts/http"
-	"github.com/goravel/framework/contracts/route"
-	goravelhttp "github.com/goravel/framework/http"
+	"github.com/chenyuIT/framework/contracts/config"
+	httpcontract "github.com/chenyuIT/framework/contracts/http"
+	"github.com/chenyuIT/framework/contracts/route"
+	goravelhttp "github.com/chenyuIT/framework/http"
 )
 
 type Gin struct {

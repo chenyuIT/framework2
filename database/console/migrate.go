@@ -9,10 +9,10 @@ import (
 	"github.com/golang-migrate/migrate/v4/database/postgres"
 	"github.com/golang-migrate/migrate/v4/database/sqlserver"
 
-	"github.com/goravel/framework/contracts/config"
-	"github.com/goravel/framework/contracts/database/orm"
-	"github.com/goravel/framework/database/console/driver"
-	"github.com/goravel/framework/database/db"
+	"github.com/chenyuIT/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/database/orm"
+	"github.com/chenyuIT/framework/database/console/driver"
+	"github.com/chenyuIT/framework/database/db"
 )
 
 func getMigrate(config config.Config) (*migrate.Migrate, error) {

@@ -1,9 +1,9 @@
 package filesystem
 
 import (
-	configcontract "github.com/goravel/framework/contracts/config"
-	filesystemcontract "github.com/goravel/framework/contracts/filesystem"
-	"github.com/goravel/framework/contracts/foundation"
+	configcontract "github.com/chenyuIT/framework/contracts/config"
+	filesystemcontract "github.com/chenyuIT/framework/contracts/filesystem"
+	"github.com/chenyuIT/framework/contracts/foundation"
 )
 
 const Binding = "goravel.filesystem"

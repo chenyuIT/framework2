@@ -3,7 +3,7 @@ package queue
 import (
 	"fmt"
 
-	configcontract "github.com/goravel/framework/contracts/config"
+	configcontract "github.com/chenyuIT/framework/contracts/config"
 )
 
 type Config struct {

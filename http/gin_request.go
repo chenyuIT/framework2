@@ -14,12 +14,12 @@ import (
 	"github.com/gookit/validate"
 	"github.com/spf13/cast"
 
-	filesystemcontract "github.com/goravel/framework/contracts/filesystem"
-	httpcontract "github.com/goravel/framework/contracts/http"
-	"github.com/goravel/framework/contracts/log"
-	validatecontract "github.com/goravel/framework/contracts/validation"
-	"github.com/goravel/framework/filesystem"
-	"github.com/goravel/framework/validation"
+	filesystemcontract "github.com/chenyuIT/framework/contracts/filesystem"
+	httpcontract "github.com/chenyuIT/framework/contracts/http"
+	"github.com/chenyuIT/framework/contracts/log"
+	validatecontract "github.com/chenyuIT/framework/contracts/validation"
+	"github.com/chenyuIT/framework/filesystem"
+	"github.com/chenyuIT/framework/validation"
 )
 
 type GinRequest struct {

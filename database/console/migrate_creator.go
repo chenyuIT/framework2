@@ -5,10 +5,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/goravel/framework/contracts/config"
-	"github.com/goravel/framework/contracts/database/orm"
-	"github.com/goravel/framework/support/carbon"
-	"github.com/goravel/framework/support/file"
+	"github.com/chenyuIT/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/database/orm"
+	"github.com/chenyuIT/framework/support/carbon"
+	"github.com/chenyuIT/framework/support/file"
 )
 
 type MigrateCreator struct {

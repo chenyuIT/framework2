@@ -1,8 +1,8 @@
 package hash
 
 import (
-	"github.com/goravel/framework/contracts/config"
-	"github.com/goravel/framework/contracts/hash"
+	"github.com/chenyuIT/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/hash"
 )
 
 const (

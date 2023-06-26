@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/goravel/framework/contracts/foundation"
+	"github.com/chenyuIT/framework/contracts/foundation"
 )
 
 const Binding = "goravel.log"

@@ -2,7 +2,7 @@
 
 English | [中文](./README_zh.md)
 
-## About Goravel
+## About Goravel-chenyuIT
 
 Goravel is a web application framework with complete functions and good scalability. As a starting scaffolding to help
 Gopher quickly build their own applications.

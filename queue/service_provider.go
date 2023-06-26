@@ -1,9 +1,9 @@
 package queue
 
 import (
-	"github.com/goravel/framework/contracts/console"
-	"github.com/goravel/framework/contracts/foundation"
-	queueConsole "github.com/goravel/framework/queue/console"
+	"github.com/chenyuIT/framework/contracts/console"
+	"github.com/chenyuIT/framework/contracts/foundation"
+	queueConsole "github.com/chenyuIT/framework/queue/console"
 )
 
 const Binding = "goravel.queue"

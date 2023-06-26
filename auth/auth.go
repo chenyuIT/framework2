@@ -9,13 +9,13 @@ import (
 	"github.com/spf13/cast"
 	"gorm.io/gorm/clause"
 
-	contractsauth "github.com/goravel/framework/contracts/auth"
-	"github.com/goravel/framework/contracts/cache"
-	"github.com/goravel/framework/contracts/config"
-	"github.com/goravel/framework/contracts/database/orm"
-	"github.com/goravel/framework/contracts/http"
-	"github.com/goravel/framework/support/carbon"
-	"github.com/goravel/framework/support/database"
+	contractsauth "github.com/chenyuIT/framework/contracts/auth"
+	"github.com/chenyuIT/framework/contracts/cache"
+	"github.com/chenyuIT/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/database/orm"
+	"github.com/chenyuIT/framework/contracts/http"
+	"github.com/chenyuIT/framework/support/carbon"
+	"github.com/chenyuIT/framework/support/database"
 )
 
 const ctxKey = "GoravelAuth"

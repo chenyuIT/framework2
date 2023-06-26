@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/suite"
 
-	configmock "github.com/goravel/framework/contracts/config/mocks"
+	configmock "github.com/chenyuIT/framework/contracts/config/mocks"
 )
 
 type MemoryTestSuite struct {

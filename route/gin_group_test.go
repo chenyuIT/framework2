@@ -8,14 +8,14 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 
-	cachemock "github.com/goravel/framework/contracts/cache/mocks"
-	configmock "github.com/goravel/framework/contracts/config/mocks"
-	httpcontract "github.com/goravel/framework/contracts/http"
-	httpmock "github.com/goravel/framework/contracts/http/mocks"
-	"github.com/goravel/framework/contracts/route"
-	frameworkhttp "github.com/goravel/framework/http"
-	"github.com/goravel/framework/http/limit"
-	"github.com/goravel/framework/http/middleware"
+	cachemock "github.com/chenyuIT/framework/contracts/cache/mocks"
+	configmock "github.com/chenyuIT/framework/contracts/config/mocks"
+	httpcontract "github.com/chenyuIT/framework/contracts/http"
+	httpmock "github.com/chenyuIT/framework/contracts/http/mocks"
+	"github.com/chenyuIT/framework/contracts/route"
+	frameworkhttp "github.com/chenyuIT/framework/http"
+	"github.com/chenyuIT/framework/http/limit"
+	"github.com/chenyuIT/framework/http/middleware"
 )
 
 type resourceController struct{}

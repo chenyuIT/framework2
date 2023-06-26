@@ -10,9 +10,9 @@ import (
 	"gorm.io/driver/postgres"
 	"gorm.io/driver/sqlserver"
 
-	configmock "github.com/goravel/framework/contracts/config/mocks"
-	databasecontract "github.com/goravel/framework/contracts/database"
-	"github.com/goravel/framework/contracts/database/orm"
+	configmock "github.com/chenyuIT/framework/contracts/config/mocks"
+	databasecontract "github.com/chenyuIT/framework/contracts/database"
+	"github.com/chenyuIT/framework/contracts/database/orm"
 )
 
 type DialectorTestSuite struct {

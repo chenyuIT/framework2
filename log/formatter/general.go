@@ -8,7 +8,7 @@ import (
 	"github.com/bytedance/sonic"
 	"github.com/sirupsen/logrus"
 
-	"github.com/goravel/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/config"
 )
 
 type General struct {

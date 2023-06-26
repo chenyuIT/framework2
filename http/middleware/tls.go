@@ -5,8 +5,8 @@ import (
 
 	"github.com/unrolled/secure"
 
-	httpcontract "github.com/goravel/framework/contracts/http"
-	frameworkhttp "github.com/goravel/framework/http"
+	httpcontract "github.com/chenyuIT/framework/contracts/http"
+	frameworkhttp "github.com/chenyuIT/framework/http"
 )
 
 func Tls(host ...string) httpcontract.Middleware {

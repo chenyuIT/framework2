@@ -12,12 +12,12 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 
-	configmock "github.com/goravel/framework/contracts/config/mocks"
-	"github.com/goravel/framework/contracts/mail"
-	queuecontract "github.com/goravel/framework/contracts/queue"
-	"github.com/goravel/framework/queue"
-	"github.com/goravel/framework/support/file"
-	testingdocker "github.com/goravel/framework/testing/docker"
+	configmock "github.com/chenyuIT/framework/contracts/config/mocks"
+	"github.com/chenyuIT/framework/contracts/mail"
+	queuecontract "github.com/chenyuIT/framework/contracts/queue"
+	"github.com/chenyuIT/framework/queue"
+	"github.com/chenyuIT/framework/support/file"
+	testingdocker "github.com/chenyuIT/framework/testing/docker"
 )
 
 var testBcc, testCc, testTo, testFromAddress, testFromName string

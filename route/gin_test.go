@@ -19,14 +19,14 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 
-	configmock "github.com/goravel/framework/contracts/config/mocks"
-	filesystemmock "github.com/goravel/framework/contracts/filesystem/mocks"
-	httpcontract "github.com/goravel/framework/contracts/http"
-	logmock "github.com/goravel/framework/contracts/log/mocks"
-	"github.com/goravel/framework/contracts/validation"
-	validationmock "github.com/goravel/framework/contracts/validation/mocks"
-	frameworkfilesystem "github.com/goravel/framework/filesystem"
-	frameworkhttp "github.com/goravel/framework/http"
+	configmock "github.com/chenyuIT/framework/contracts/config/mocks"
+	filesystemmock "github.com/chenyuIT/framework/contracts/filesystem/mocks"
+	httpcontract "github.com/chenyuIT/framework/contracts/http"
+	logmock "github.com/chenyuIT/framework/contracts/log/mocks"
+	"github.com/chenyuIT/framework/contracts/validation"
+	validationmock "github.com/chenyuIT/framework/contracts/validation/mocks"
+	frameworkfilesystem "github.com/chenyuIT/framework/filesystem"
+	frameworkhttp "github.com/chenyuIT/framework/http"
 )
 
 func TestFallback(t *testing.T) {

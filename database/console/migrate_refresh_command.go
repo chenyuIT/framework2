@@ -8,9 +8,9 @@ import (
 	_ "github.com/golang-migrate/migrate/v4/source/file"
 	"github.com/gookit/color"
 
-	"github.com/goravel/framework/contracts/config"
-	"github.com/goravel/framework/contracts/console"
-	"github.com/goravel/framework/contracts/console/command"
+	"github.com/chenyuIT/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/console"
+	"github.com/chenyuIT/framework/contracts/console/command"
 )
 
 type MigrateRefreshCommand struct {

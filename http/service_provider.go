@@ -1,14 +1,14 @@
 package http
 
 import (
-	"github.com/goravel/framework/contracts/cache"
-	"github.com/goravel/framework/contracts/config"
-	consolecontract "github.com/goravel/framework/contracts/console"
-	"github.com/goravel/framework/contracts/foundation"
-	"github.com/goravel/framework/contracts/http"
-	"github.com/goravel/framework/contracts/log"
-	"github.com/goravel/framework/contracts/validation"
-	"github.com/goravel/framework/http/console"
+	"github.com/chenyuIT/framework/contracts/cache"
+	"github.com/chenyuIT/framework/contracts/config"
+	consolecontract "github.com/chenyuIT/framework/contracts/console"
+	"github.com/chenyuIT/framework/contracts/foundation"
+	"github.com/chenyuIT/framework/contracts/http"
+	"github.com/chenyuIT/framework/contracts/log"
+	"github.com/chenyuIT/framework/contracts/validation"
+	"github.com/chenyuIT/framework/http/console"
 )
 
 const Binding = "goravel.http"

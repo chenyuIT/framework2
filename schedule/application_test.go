@@ -8,10 +8,10 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 
-	consolemock "github.com/goravel/framework/contracts/console/mocks"
-	logmock "github.com/goravel/framework/contracts/log/mocks"
-	"github.com/goravel/framework/contracts/schedule"
-	"github.com/goravel/framework/support/carbon"
+	consolemock "github.com/chenyuIT/framework/contracts/console/mocks"
+	logmock "github.com/chenyuIT/framework/contracts/log/mocks"
+	"github.com/chenyuIT/framework/contracts/schedule"
+	"github.com/chenyuIT/framework/support/carbon"
 )
 
 func TestApplication(t *testing.T) {

@@ -12,7 +12,7 @@ import (
 	"github.com/bytedance/sonic"
 	"github.com/gookit/color"
 
-	"github.com/goravel/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/config"
 )
 
 type AES struct {

@@ -6,8 +6,8 @@ import (
 	"github.com/gookit/color"
 	"github.com/sirupsen/logrus"
 
-	"github.com/goravel/framework/contracts/config"
-	"github.com/goravel/framework/contracts/log"
+	"github.com/chenyuIT/framework/contracts/config"
+	"github.com/chenyuIT/framework/contracts/log"
 )
 
 type Application struct {

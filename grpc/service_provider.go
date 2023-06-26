@@ -1,8 +1,8 @@
 package grpc
 
 import (
-	"github.com/goravel/framework/contracts/foundation"
-	"github.com/goravel/framework/contracts/log"
+	"github.com/chenyuIT/framework/contracts/foundation"
+	"github.com/chenyuIT/framework/contracts/log"
 )
 
 const Binding = "goravel.grpc"

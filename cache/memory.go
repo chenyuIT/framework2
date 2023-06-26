@@ -7,8 +7,8 @@ import (
 	"github.com/patrickmn/go-cache"
 	"github.com/spf13/cast"
 
-	contractscache "github.com/goravel/framework/contracts/cache"
-	"github.com/goravel/framework/contracts/config"
+	contractscache "github.com/chenyuIT/framework/contracts/cache"
+	"github.com/chenyuIT/framework/contracts/config"
 )
 
 type Memory struct {

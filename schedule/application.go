@@ -4,9 +4,9 @@ import (
 	"github.com/gookit/color"
 	"github.com/robfig/cron/v3"
 
-	"github.com/goravel/framework/contracts/console"
-	"github.com/goravel/framework/contracts/log"
-	"github.com/goravel/framework/contracts/schedule"
+	"github.com/chenyuIT/framework/contracts/console"
+	"github.com/chenyuIT/framework/contracts/log"
+	"github.com/chenyuIT/framework/contracts/schedule"
 )
 
 type Application struct {

@@ -1,9 +1,9 @@
 package event
 
 import (
-	"github.com/goravel/framework/contracts/console"
-	"github.com/goravel/framework/contracts/foundation"
-	eventConsole "github.com/goravel/framework/event/console"
+	"github.com/chenyuIT/framework/contracts/console"
+	"github.com/chenyuIT/framework/contracts/foundation"
+	eventConsole "github.com/chenyuIT/framework/event/console"
 )
 
 const Binding = "goravel.event"

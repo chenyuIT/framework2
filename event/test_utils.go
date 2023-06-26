@@ -3,7 +3,7 @@ package event
 import (
 	"errors"
 
-	"github.com/goravel/framework/contracts/event"
+	"github.com/chenyuIT/framework/contracts/event"
 )
 
 type TestEvent struct{}

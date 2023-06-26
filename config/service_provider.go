@@ -3,8 +3,8 @@ package config
 import (
 	"flag"
 
-	"github.com/goravel/framework/contracts/foundation"
-	"github.com/goravel/framework/support"
+	"github.com/chenyuIT/framework/contracts/foundation"
+	"github.com/chenyuIT/framework/support"
 )
 
 const Binding = "goravel.config"

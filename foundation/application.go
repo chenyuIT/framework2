@@ -5,12 +5,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/goravel/framework/config"
-	consolecontract "github.com/goravel/framework/contracts/console"
-	"github.com/goravel/framework/contracts/foundation"
-	"github.com/goravel/framework/foundation/console"
-	"github.com/goravel/framework/support"
-	"github.com/goravel/framework/support/carbon"
+	"github.com/chenyuIT/framework/config"
+	consolecontract "github.com/chenyuIT/framework/contracts/console"
+	"github.com/chenyuIT/framework/contracts/foundation"
+	"github.com/chenyuIT/framework/foundation/console"
+	"github.com/chenyuIT/framework/support"
+	"github.com/chenyuIT/framework/support/carbon"
 )
 
 var (

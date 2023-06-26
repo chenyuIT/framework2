@@ -1,20 +1,20 @@
 package mock
 
 import (
-	accessmock "github.com/goravel/framework/contracts/auth/access/mocks"
-	authmock "github.com/goravel/framework/contracts/auth/mocks"
-	cachemock "github.com/goravel/framework/contracts/cache/mocks"
-	configmock "github.com/goravel/framework/contracts/config/mocks"
-	consolemock "github.com/goravel/framework/contracts/console/mocks"
-	ormmock "github.com/goravel/framework/contracts/database/orm/mocks"
-	eventmock "github.com/goravel/framework/contracts/event/mocks"
-	filesystemmock "github.com/goravel/framework/contracts/filesystem/mocks"
-	foundationmock "github.com/goravel/framework/contracts/foundation/mocks"
-	grpcmock "github.com/goravel/framework/contracts/grpc/mocks"
-	mailmock "github.com/goravel/framework/contracts/mail/mocks"
-	queuemock "github.com/goravel/framework/contracts/queue/mocks"
-	validatemock "github.com/goravel/framework/contracts/validation/mocks"
-	"github.com/goravel/framework/foundation"
+	accessmock "github.com/chenyuIT/framework/contracts/auth/access/mocks"
+	authmock "github.com/chenyuIT/framework/contracts/auth/mocks"
+	cachemock "github.com/chenyuIT/framework/contracts/cache/mocks"
+	configmock "github.com/chenyuIT/framework/contracts/config/mocks"
+	consolemock "github.com/chenyuIT/framework/contracts/console/mocks"
+	ormmock "github.com/chenyuIT/framework/contracts/database/orm/mocks"
+	eventmock "github.com/chenyuIT/framework/contracts/event/mocks"
+	filesystemmock "github.com/chenyuIT/framework/contracts/filesystem/mocks"
+	foundationmock "github.com/chenyuIT/framework/contracts/foundation/mocks"
+	grpcmock "github.com/chenyuIT/framework/contracts/grpc/mocks"
+	mailmock "github.com/chenyuIT/framework/contracts/mail/mocks"
+	queuemock "github.com/chenyuIT/framework/contracts/queue/mocks"
+	validatemock "github.com/chenyuIT/framework/contracts/validation/mocks"
+	"github.com/chenyuIT/framework/foundation"
 )
 
 var app *foundationmock.Application

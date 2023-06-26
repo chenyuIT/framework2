@@ -8,8 +8,8 @@ package gorm
 
 import (
 	"context"
-	"github.com/goravel/framework/contracts/config"
-	"github.com/goravel/framework/database/db"
+	"github.com/chenyuIT/framework/contracts/config"
+	"github.com/chenyuIT/framework/database/db"
 )
 
 // Injectors from wire.go:

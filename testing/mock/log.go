@@ -3,8 +3,8 @@ package mock
 import (
 	"fmt"
 
-	"github.com/goravel/framework/contracts/log"
-	"github.com/goravel/framework/support/carbon"
+	"github.com/chenyuIT/framework/contracts/log"
+	"github.com/chenyuIT/framework/support/carbon"
 )
 
 type TestLog struct {

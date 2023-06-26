@@ -2,7 +2,7 @@
 
 [English](./README.md) | 中文
 
-# 关于 Goravel
+# 关于 Goravel-ChenyuIT
 
 Goravel 是一个功能完备、具有良好扩展能力的 Web 应用程序框架。作为一个起始脚手架帮助 Golang 开发者快速构建自己的应用。
 

@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	consolecontract "github.com/goravel/framework/contracts/console"
-	"github.com/goravel/framework/contracts/foundation"
-	"github.com/goravel/framework/database/console"
+	consolecontract "github.com/chenyuIT/framework/contracts/console"
+	"github.com/chenyuIT/framework/contracts/foundation"
+	"github.com/chenyuIT/framework/database/console"
 )
 
 const Binding = "goravel.orm"
